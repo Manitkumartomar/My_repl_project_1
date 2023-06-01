@@ -1,5 +1,6 @@
-for(x=1;x<=3;x++){
-  for(a=1;a<=3;a++){
-    console.log("For my family members= @Everything",a);
-  }
-}
+//Practice session//
+console.log("Manit Kumar");
+console.log(75*5);
+console.log(10**3);
+console.log(1*2*3*4*5*6);
+console.log("There are some problem with me to take this step of private sector and I can't understand these things properly,so please tell me How can I deal with these things. ");
